@@ -11,6 +11,8 @@ Steps to automate calculator App
 1. Within my-calculator run Application.java (press green play button in spring tool suite)
 2. Javlien text pops up in console
 3. Within selenium-demo run Main.java (right click within Main.java> select Run As> java application
-4. 
+
+
+
 
 
